@@ -8,9 +8,9 @@
 - also familiar with C# programming language
 - My goal is to fully learn Django and Python in an advanced way
 
-  ___
+ ___
 
-  <h2>🔧 &nbsp; Tech Stack</h2>
+<h2>🔧 &nbsp; Tech Stack</h2>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -29,17 +29,29 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
-  ___
+___
 
-  <h2>⚡️ &nbsp; Github Stats</h2>
+<h2>⚡️ &nbsp; Github Stats</h2>
 
 [![Iliya-Askari](https://github-profile-trophy.vercel.app/?username=Iliya-Askari)](https://github.com/Iliya-Askari)
-<a href="https://github.com/Iliya-Askari">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iliya-Askari&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
-</a> 
 
 ___
+
+
+<h2>My Activity</h2>
+<a href="https://github.com/Iliya-Askari">
+<img src="https://github-readme-stats.vercel.app/api?username=Iliya-Askari&show_icons=true&theme=radical" />
+</a>
+
+
+___
+
+<h2>My Project Languegs</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iliya-Askari&hide_progress=true)
+
+___
+
 
 <h2>📞 &nbsp; Connct Me </h2>
 
