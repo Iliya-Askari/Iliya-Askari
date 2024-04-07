@@ -32,10 +32,12 @@
   ___
 
   <h2>⚡️ &nbsp; Github Stats</h2>
-  <a href="https://github.com/Iliya-Askari">
+
+[![Iliya-Askari](https://github-profile-trophy.vercel.app/?username=Iliya-Askari)](https://github.com/Iliya-Askari)
+<a href="https://github.com/Iliya-Askari">
   <img src="https://github-readme-stats.vercel.app/api?username=Iliya-Askari&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliya-Askari" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+</a> 
 
 ___
 
