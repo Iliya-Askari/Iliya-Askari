@@ -1,10 +1,10 @@
-<h2>Hi There! I'm Iliya Askari 🖐</h2>
+<h2 align="center">Hi There! I'm Iliya Askari 🖐</h2>
 
 <h2>👨‍💻 &nbsp; About Me</h2>
 
 - I am 17 years old and in the 11th grade, I study computer in the conservatory
 - I learned Python and Django programming languages ​​at an introductory level
-- learning Git and Docker course
+- I am familiar with website design
 - also familiar with C# programming language
 - My goal is to fully learn Django and Python in an advanced way
 
@@ -15,6 +15,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=007396)
+  ![C#](https://img.shields.io/badge/-C%20sharp-333333?style=flat&logo=csharp&logoColor=007AC)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,6 +25,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=007AC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
