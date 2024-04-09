@@ -18,9 +18,7 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 🛢 &nbsp;
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
-  ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
