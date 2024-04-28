@@ -31,11 +31,7 @@
 
 ___
 
-<h2>⚡️ &nbsp; Github Stats</h2>
 
-[![Iliya-Askari](https://github-profile-trophy.vercel.app/?username=Iliya-Askari)](https://github.com/Iliya-Askari)
-
-___
 
 
 <h2>My Activity</h2>
