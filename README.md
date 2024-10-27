@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 &nbsp; About Me</h2>
 
-- I am 17 years old and in the 11th grade, I study computer in the conservatory
+- I am 17 years old and in the 12th grade, I study computer in the conservatory
 - I learned Python and Django programming languages ​​at an introductory level
 - I am familiar with website design
 - also familiar with C# programming language
