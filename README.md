@@ -1,37 +1,53 @@
 <h2 align="center">Hi There! I'm Iliya Askari 🖐</h2>
 
 <h2>👨‍💻 &nbsp; About Me</h2>
-
-- I am 17 years old and in the 12th grade, I study computer in the conservatory
-- I learned Python and Django programming languages ​​at an introductory level
-- I am familiar with website design
-- also familiar with C# programming language
-- My goal is to fully learn Django and Python in an advanced way
-
- ___
+<p>
+  My name is <b>Iliya Askari</b>, an 18-year-old developer from Mashhad, Iran.<br>
+  I recently graduated in <b>Computer Networks &amp; Software</b> from a technical high school.<br>
+  I have practical experience with <b>Python</b>, <b>JavaScript</b>, and <b>C#</b>, and my main specialization is
+  <b>Artificial Intelligence</b>, including <b>Natural Language Processing (NLP)</b>, <b>Computer Vision</b>,
+  <b>Machine Learning (ML)</b>, and working with models such as <b>YOLO</b>.<br>
+  I also work with backend technologies such as <b>Django</b> and <b>Django REST Framework (DRF)</b>.<br>
+  My goal is to become a <b>senior AI developer</b> and eventually build my own AI-focused business.<br>
+  I am highly motivated, enjoy teamwork and problem-solving, and I’m always eager to take on new challenges.
+</p>
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=007396)
-  ![C#](https://img.shields.io/badge/-C%20sharp-333333?style=flat&logo=csharp&logoColor=007AC)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+<h3>💻 Languages &amp; Frameworks</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+</p>
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=007AC)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+<h3>🤖 AI / ML</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-ML-success?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-DL-informational?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-CV-yellow?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-orange?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Algorithms-AI%20Algorithms-red?style=for-the-badge" alt="AI Algorithms" />
+  <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-lightgrey?style=for-the-badge" alt="DRF" />
+</p>
 
-___
+<h3>🌐 Web</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+</p>
 
+<h3>⚙️ Tools</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 
+</p>
 
 
 <h2>My Activity</h2>
@@ -39,22 +55,17 @@ ___
 <img src="https://github-readme-stats.vercel.app/api?username=Iliya-Askari&show_icons=true&theme=radical" />
 </a>
 
-
-___
-
-<h2>My Project Languegs</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iliya-Askari&hide_progress=true)
-
-___
-
-
-<h2>📞 &nbsp; Connct Me </h2>
-
-  <a href="https://instagram.com/i.askari_86_/">
-    <img src="https://img.shields.io/badge/Instagram-@i.askari_86_-red?style=flat&logo=instagram" />
+<h2>📞 &nbsp; Contact Me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/iliya-askari-951282279/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://t.me/i_askarii/">
-    <img src="https://img.shields.io/badge/Telegram-@i_askarii-blue?style=flat&logo=telegram" />
+  <a href="https://instagram.com/i.askari_86_/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="https://t.me/i_askarii/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" />
   </a>
 </p>
+
+
