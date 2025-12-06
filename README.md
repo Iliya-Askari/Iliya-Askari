@@ -66,7 +66,7 @@
   <a href="https://t.me/i_askarii/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" />
   </a>
-  <a href="elyaaskarii86@gmail.com" target="_blank">
+  <a href="mailto:elyaaskarii86@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" />
   </a>
 </p>
