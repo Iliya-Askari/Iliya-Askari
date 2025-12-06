@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </p>
 
-<h3>🤖 AI / ML</h3>
+<h3>🤖 AI </h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-ML-success?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep%20Learning-DL-informational?style=for-the-badge" alt="Deep Learning" />
