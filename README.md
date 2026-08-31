@@ -2,13 +2,11 @@
 
 <h2>👨‍💻 &nbsp; About Me</h2>
 <p>
-  My name is <b>Iliya Askari</b>, an 18-year-old developer from Mashhad, Iran.<br>
+  My name is <b>Iliya Askari</b>, an 19-year-old developer from Mashhad, Iran.<br>
   I recently graduated in <b>Computer Networks &amp; Software</b> from a technical high school.<br>
-  I have practical experience with <b>Python</b>, <b>JavaScript</b>, and <b>C#</b>, and my main specialization is
-  <b>Artificial Intelligence</b>, including <b>Natural Language Processing (NLP)</b>,
-  <b>Machine Learning (ML).<br>
+  I have practical experience with <b>Python</b>, <b>JavaScript</b>, and <b>C#</b>. My main specialization is <b>Artificial Intelligence</b>, including <b>Natural Language Processing (NLP)</b> and <b>Machine Learning (ML)</b>.<br>
   I also work with backend technologies such as <b>Django</b> and <b>Django REST Framework (DRF)</b>.<br>
-  My goal is to become a <b>senior AI developer</b> and eventually build my own AI-focused business.<br>
+  My goal is to become a <b>Senior AI Developer</b> and eventually build my own AI-focused business.<br>
   I am highly motivated, enjoy teamwork and problem-solving, and I’m always eager to take on new challenges.
 </p>
 
